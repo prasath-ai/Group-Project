@@ -1,0 +1,17 @@
+
+.head{
+  padding-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  color: red;
+}
+.Form,.container{
+  text-align: center;
+  justify-content: center;
+  
+}
+body{
+  background-image:url(assets/image1.png) ;
+  background-repeat: no-repeat;
+  margin:auto;
+}
